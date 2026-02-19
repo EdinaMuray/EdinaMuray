@@ -15,7 +15,7 @@ Self-taught full-stack web developer focusing on modern frontend technologies.
 ## Tech Stack
 
 ### Languages & Frameworks  
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -44,6 +44,7 @@ More showcased projects will be added here soon.
 *(Social links coming soon)*
 
 ---
+
 
 
 
