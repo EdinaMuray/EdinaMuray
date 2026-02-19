@@ -22,8 +22,8 @@ Self-taught full-stack web developer focusing on modern frontend technologies.
 ![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 ### Tools  
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)  
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)  
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
 ![VSCode](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 
 ---
@@ -44,6 +44,7 @@ More showcased projects will be added here soon.
 *(Social links coming soon)*
 
 ---
+
 
 
 
