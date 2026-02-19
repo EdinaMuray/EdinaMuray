@@ -24,7 +24,7 @@ Self-taught full-stack web developer focusing on modern frontend technologies.
 ### Tools  
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
-![VSCode](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
+![VSCode](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
 
 ---
 
@@ -44,6 +44,7 @@ More showcased projects will be added here soon.
 *(Social links coming soon)*
 
 ---
+
 
 
 
