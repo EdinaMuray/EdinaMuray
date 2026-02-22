@@ -1,18 +1,15 @@
 # Hi, I'm Edina 👋  
+
 Self-taught full-stack web developer focusing on modern frontend technologies.
 
----
-
-## About Me
+## About Me  
 - 🎯 Frontend-focused developer (HTML • CSS • JavaScript • TypeScript • Angular)  
 - 🌱 Learning through self-study and bootcamp experience  
 - 🧩 Passionate about clean, modern UI and smooth user experiences  
 - 🔧 Currently refactoring my older projects  
-- 🚧 Working on uploading fresh work soon
+- 🚧 Working on uploading fresh work soon  
 
----
-
-## Tech Stack
+## Tech Stack  
 
 ### Languages & Frameworks  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,35 +22,13 @@ Self-taught full-stack web developer focusing on modern frontend technologies.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
----
-
 ## GitHub Stats  
 *(Coming soon — stats will appear once more activity and new projects are uploaded)*  
 <!-- Placeholder for future GitHub Stats -->
-
----
 
 ## Projects  
 🚧 *Currently reorganizing and updating my older repositories.*  
 More showcased projects will be added here soon.
 
----
-
 ## Contact  
 *(Social links coming soon)*
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
