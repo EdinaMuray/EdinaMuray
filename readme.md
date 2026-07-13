@@ -31,14 +31,6 @@ A full-stack application for managing wells, measurements and parameter types. T
 
 **Stack:** Angular · TypeScript · C# · .NET 8 · ASP.NET Core · Entity Framework Core · SQLite · REST
 
-### AI Archaeology Tool
-
-*Active development*
-
-An Angular and .NET application for importing, organizing and triaging conversation data. The project focuses on entity modelling, status-driven workflows, DTO-based API boundaries and a maintainable full-stack structure.
-
-**Stack:** Angular · TypeScript · C# · .NET 8 · ASP.NET Core · Entity Framework Core
-
 ## Core Technologies
 
 **Frontend:** Angular · TypeScript · HTML · CSS
