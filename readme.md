@@ -1,38 +1,50 @@
-# Hi, I'm Edina 👋  
+# Edina Muray
 
-Self-taught full-stack web developer focusing on modern frontend technologies.
+### Angular + .NET Developer
 
-## About Me  
-- 🎯 Frontend-focused developer (HTML • CSS • JavaScript • TypeScript • Angular)  
-- 🌱 Learning through self-study and bootcamp experience  
-- 🧩 Passionate about clean, modern UI and smooth user experiences  
-- 🔧 Currently refactoring my older projects  
-- 🚧 Working on uploading fresh work soon  
+**Turning complex data and workflows into clear, maintainable web applications.**
 
-## Tech Stack  
+I work across Angular frontends, .NET APIs and relational data models. My focus is not only on individual features, but on how user interfaces, domain logic and data fit together as a coherent system.
 
-### Languages & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=csswizardry&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+## Current Focus
 
-### Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=vscodium&logoColor=white)
+* Building end-to-end applications with Angular and .NET
+* Designing REST APIs, domain models and data flows
+* Creating reusable interfaces for data-rich applications
+* Strengthening testing and maintainable project structure
 
-## GitHub Stats  
-*(Coming soon — stats will appear once more activity and new projects are uploaded)*  
-<!-- Placeholder for future GitHub Stats -->
+## Selected Work
 
-## Projects  
-🚧 *Currently reorganizing and updating my older repositories.*  
-More showcased projects will be added here soon.
+### [Air Quality Sensor Dashboard](https://github.com/EdinaMuray/air-quality-dashboard)
 
-## Contact  
-*(Social links coming soon)*
+A modern Angular dashboard for exploring environmental sensor data through summary metrics, searchable measurements and interactive sensor-status simulation.
 
+**Stack:** Angular · TypeScript · HTML · CSS · Jasmine/Karma
 
+[Live Demo](https://edinamuray.github.io/air-quality-dashboard/)
 
+### Groundwater Monitoring System
 
+*Active development*
+
+A full-stack application for managing wells, measurements and parameter types. The backend uses .NET 8 Minimal APIs, Entity Framework Core and SQLite; the Angular frontend is designed to turn the domain API into a clear, usable monitoring interface.
+
+**Stack:** Angular · TypeScript · C# · .NET 8 · ASP.NET Core · Entity Framework Core · SQLite · REST
+
+### AI Archaeology Tool
+
+*Active development*
+
+An Angular and .NET application for importing, organizing and triaging conversation data. The project focuses on entity modelling, status-driven workflows, DTO-based API boundaries and a maintainable full-stack structure.
+
+**Stack:** Angular · TypeScript · C# · .NET 8 · ASP.NET Core · Entity Framework Core
+
+## Core Technologies
+
+**Frontend:** Angular · TypeScript · HTML · CSS
+**Backend:** C# · .NET 8 · ASP.NET Core · Minimal APIs · Entity Framework Core
+**Data and Tools:** SQL · SQLite · REST · Swagger/OpenAPI · Git · GitHub · VS Code
+
+## Engineering Interests
+
+Full-stack application architecture · API and system integration · Data-rich business applications · Domain modelling · Cloud architecture in the Microsoft/Azure ecosystem
