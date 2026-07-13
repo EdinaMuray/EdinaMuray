@@ -19,7 +19,7 @@ I work across Angular frontends, .NET APIs and relational data models. My focus 
 
 A modern Angular dashboard for exploring environmental sensor data through summary metrics, searchable measurements and interactive sensor-status simulation.
 
-**Stack:** Angular · TypeScript · HTML · CSS
+**Stack:** Angular · TypeScript · HTML · CSS · Vitest
 
 [Live Demo](https://edinamuray.github.io/air-quality-dashboard/)
 
