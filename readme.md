@@ -34,7 +34,9 @@ A full-stack application for managing wells, measurements and parameter types. T
 ## Core Technologies
 
 **Frontend:** Angular · TypeScript · HTML · CSS
+
 **Backend:** C# · .NET 8 · ASP.NET Core · Minimal APIs · Entity Framework Core
+
 **Data and Tools:** SQL · SQLite · REST · Swagger/OpenAPI · Git · GitHub · VS Code
 
 ## Engineering Interests
